@@ -206,13 +206,13 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-\- Système d'exploitation : Ubuntu Server
+\- \*\*Système d'exploitation :\*\* Ubuntu Server
 
-\- Technologie : Docker
+\- \*\*Technologie :\*\* Docker
 
-\- Terminal : Bash
+\- \*\*Terminal :\*\* Bash
 
-\- Gestion des versions : Git et GitHub
+\- \*\*Gestion des versions :\*\* Git et GitHub
 
 
 
@@ -220,5 +220,5 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-Réalisé dans le cadre des travaux pratiques Docker Training Labs.
+Réalisé dans le cadre des travaux pratiques Docker Training Labs – Partie 1.
 
