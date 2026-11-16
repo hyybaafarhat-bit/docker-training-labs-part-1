@@ -22,15 +22,27 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-!\[Capture 1](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.1/1.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.1/1.png" width="800">
+
+</p>
 
 
 
-!\[Capture 2](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.1/2.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.1/2.png" width="800">
+
+</p>
 
 
 
-!\[Capture 3](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.1/3.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.1/3.png" width="800">
+
+</p>
 
 
 
@@ -38,27 +50,51 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-!\[Capture 1](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/1.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/1.png" width="800">
+
+</p>
 
 
 
-!\[Capture 2](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/2.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/2.png" width="800">
+
+</p>
 
 
 
-!\[Capture 3](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/3.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/3.png" width="800">
+
+</p>
 
 
 
-!\[Capture 4](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/4.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/4.png" width="800">
+
+</p>
 
 
 
-!\[Capture 5](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/5.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/5.png" width="800">
+
+</p>
 
 
 
-!\[Capture 6](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/6.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%201.2/6.png" width="800">
+
+</p>
 
 
 
@@ -66,67 +102,131 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-!\[Capture 1](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/1.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/1.png" width="800">
+
+</p>
 
 
 
-!\[Capture 2](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/2.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/2.png" width="800">
+
+</p>
 
 
 
-!\[Capture 3](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/3.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/3.png" width="800">
+
+</p>
 
 
 
-!\[Capture 4](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/4.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/4.png" width="800">
+
+</p>
 
 
 
-!\[Capture 5](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/5.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/5.png" width="800">
+
+</p>
 
 
 
-!\[Capture 6](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/6.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/6.png" width="800">
+
+</p>
 
 
 
-!\[Capture 7](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/7.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/7.png" width="800">
+
+</p>
 
 
 
-!\[Capture 8](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/8.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/8.png" width="800">
+
+</p>
 
 
 
-!\[Capture 9](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/9.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/9.png" width="800">
+
+</p>
 
 
 
-!\[Capture 10](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/10.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/10.png" width="800">
+
+</p>
 
 
 
-!\[Capture 11](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/11.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/11.png" width="800">
+
+</p>
 
 
 
-!\[Capture 12](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/12.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/12.png" width="800">
+
+</p>
 
 
 
-!\[Capture 13](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/13.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/13.png" width="800">
+
+</p>
 
 
 
-!\[Capture 14](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/14.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/14.png" width="800">
+
+</p>
 
 
 
-!\[Capture 15](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/15.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/15.png" width="800">
+
+</p>
 
 
 
-!\[Capture 16](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/16.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%202.1/16.png" width="800">
+
+</p>
 
 
 
@@ -134,19 +234,35 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-!\[Capture 1](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.1/1.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.1/1.png" width="800">
+
+</p>
 
 
 
-!\[Capture 2](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.1/2.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.1/2.png" width="800">
+
+</p>
 
 
 
-!\[Capture 3](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.1/3.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.1/3.png" width="800">
+
+</p>
 
 
 
-!\[Capture 4](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.1/4.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.1/4.png" width="800">
+
+</p>
 
 
 
@@ -154,23 +270,43 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-!\[Capture 1](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/1.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/1.png" width="800">
+
+</p>
 
 
 
-!\[Capture 2](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/2.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/2.png" width="800">
+
+</p>
 
 
 
-!\[Capture 3](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/3.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/3.png" width="800">
+
+</p>
 
 
 
-!\[Capture 4](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/4.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/4.png" width="800">
+
+</p>
 
 
 
-!\[Capture 5](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/5.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%203.2/5.png" width="800">
+
+</p>
 
 
 
@@ -178,15 +314,27 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-!\[Capture 1](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.1/1.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.1/1.png" width="800">
+
+</p>
 
 
 
-!\[Capture 2](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.1/2.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.1/2.png" width="800">
+
+</p>
 
 
 
-!\[Capture 3](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.1/3.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.1/3.png" width="800">
+
+</p>
 
 
 
@@ -194,11 +342,19 @@ Les manipulations ont été effectuées sur \*\*Ubuntu Server\*\*. Chaque labora
 
 
 
-!\[Capture 1](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.2/1.png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.2/1.png" width="800">
+
+</p>
 
 
 
-!\[Capture 2](https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.2/2..png)
+<p align="center">
+
+&#x20; <img src="https://raw.githubusercontent.com/hyybaafarhat-bit/docker-training-labs-part-1/main/lab%204.2/2..png" width="800">
+
+</p>
 
 
 
