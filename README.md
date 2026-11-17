@@ -632,3 +632,28 @@ Mettre en place une architecture composée d'un proxy, d'une application et d'un
 
 ### Documentation
 [Consulter le compte rendu du Lab 6.2](lab%206.2/README.md)
+
+## Captures des labs
+
+### lab 5.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### lab 5.2
+
